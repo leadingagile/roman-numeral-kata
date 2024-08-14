@@ -23,7 +23,7 @@ Given an invalid number as the input, output `Invalid Number: Roman Numerals are
 ### Convert from Roman Numeral to Number
 
 #### Convert Valid Roman Numeral
-Given an imput of a Roman Numeral between I and MMMCMXCIX, return the numerical equivalent
+Given an input of a Roman Numeral between I and MMMCMXCIX, return the numerical equivalent
 
 Example:
 
